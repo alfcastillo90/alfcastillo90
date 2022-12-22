@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=808080)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
+![](https://img.shields.io/badge/Php-informational?style=flat&logo=php)
 
 ## 📈 Github Stats
 
