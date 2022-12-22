@@ -32,6 +32,17 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
+![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
+![](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
+![](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)
+![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📈 Github Stats
 
