@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=php)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📈 Github Stats
 
