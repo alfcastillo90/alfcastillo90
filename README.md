@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ## 📈 Github Stats
 
