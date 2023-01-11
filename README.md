@@ -49,7 +49,7 @@
 
 ![Alfcastillo90's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfcastillo90&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfcastillo90&langs_count=8&theme=radical)](https://github.com/sebavidal10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfcastillo90&langs_count=20&theme=radical)](https://github.com/sebavidal10/github-readme-stats)
 
 
 <!---
