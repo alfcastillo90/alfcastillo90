@@ -49,6 +49,8 @@
 
 ![Alfcastillo90's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfcastillo90&show_icons=true&theme=github_dark&count_private=true&show_icons=true)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alfcastillo90?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfcastillo90&langs_count=10&theme=github_dark&show_owner=true)](https://github.com/sebavidal10/github-readme-stats)
 <!---
 alfcastillo90/alfcastillo90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
