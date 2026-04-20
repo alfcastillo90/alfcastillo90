@@ -19,7 +19,7 @@ I specialize in designing and implementing **robust backend architectures**, whi
 - 🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis
 - 🤖 Currently exploring: AI integrations & data-driven platforms
 
-📍 Based in Chile 🇨🇱 | Open to remote opportunities
+📍 Based in Chile 🇨🇱
 
 ---
 
