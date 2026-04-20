@@ -1,56 +1,109 @@
 ![](https://komarev.com/ghpvc/?username=alfcastillo90&style=flat&color=blue)
-<div> 
- <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=aaaaaa&center=true&vCenter=true&width=435&lines=Hi,++I'm+Carlos+Alfredo" alt="Typing SVG" /></a>
- </p>
-  <h3 align="center"> Welcome to the Jungle
-   </h3>
-</div>
 
+<h1 align="center">Hi, I'm Carlos Alfredo 👋</h1>
 
-![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
-![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=0000FF)
-![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?style=flat&logo=bootstrap&logoColor=white&color=8E24AA)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=5a5a5a)
-![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=f0DB4f)
-![](https://img.shields.io/badge/Scss-informational?style=flat&logo=scss3&logoColor=white&color=cf649a)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=808080)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
-![](https://img.shields.io/badge/Php-informational?style=flat&logo=php)
-![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
-![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
-![](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
-![](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)
-![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+<h3 align="center">Senior Full-Stack Engineer | Scalable systems, APIs & real-world solutions</h3>
 
-## 📈 Github Stats
+---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alfcastillo90?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+## 🚀 About Me
 
-![alfcastillo90's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfcastillo90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<!---
-alfcastillo90/alfcastillo90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Senior Full-Stack Software Engineer with 10+ years of experience** building scalable web applications and distributed systems.
+
+I specialize in designing and implementing **robust backend architectures**, while also delivering modern, high-quality frontends.
+
+- 🧠 Strong in: **System Design, APIs, Microservices, Multi-tenant architectures**
+- ⚙️ Backend: Node.js (NestJS), Python (FastAPI), PHP (Laravel)
+- 🎨 Frontend: React, Next.js, Angular, Vue
+- ☁️ Cloud & DevOps: AWS, GCP, Docker, Kubernetes, CI/CD
+- 🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis
+- 🤖 Currently exploring: AI integrations & data-driven platforms
+
+📍 Based in Chile 🇨🇱 | Open to remote opportunities
+
+---
+
+## 💼 Experience Highlights
+
+### 🧾 Multi-tenant Financial Platform
+- Designed and maintained a system supporting **100+ tenants with isolated databases**
+- Built **bulk data processing pipelines** with background workers
+- Implemented **validation, balancing, and financial reporting logic**
+- Improved performance using **caching and async processing**
+
+---
+
+### 🌐 CMS & Backend Integrations
+- Integrated **CMS platforms with custom backend systems**
+- Built webhook-based synchronization between services
+- Solved production issues related to:
+  - API failures
+  - Data consistency
+  - Security layers (WAF, validation)
+- Implemented fallback strategies for **high availability**
+
+---
+
+### 📊 Data & Analytics Systems
+- Built dashboards with real-time filtering and aggregation
+- Optimized SQL queries for large datasets
+- Designed reporting systems used for business decision-making
+
+---
+
+## 🧠 Engineering Mindset
+
+- I focus on **clean, scalable, and maintainable architectures**
+- I take ownership from **design → development → deployment**
+- I enjoy solving **complex real-world problems**
+- I value **clear communication and collaboration with stakeholders**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs)
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
+![Vue.js](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js)
+![Laravel](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=google-cloud)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=github-actions)
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alfcastillo90?cardType=level-alternate&theme=github-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfcastillo90&theme=vue-dark&layout=compact)
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/alfcastillo/
+- 📧 Email: cacr1990@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems… but also playing guitar and watching anime 🎸
