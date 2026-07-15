@@ -93,7 +93,7 @@ I specialize in designing and implementing **robust backend architectures**, whi
 
 ![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alfcastillo90?cardType=level-alternate&theme=github-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfcastillo90&theme=vue-dark&layout=compact)
+![Language Stats](stats/leaderboard_by_lines.png)
 
 ---
 
